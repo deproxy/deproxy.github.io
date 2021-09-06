@@ -16,8 +16,14 @@ minimal: true               # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "ZAa", url: "https://www.cankaya.edu.tr/"}
-  - {file: "README.md"}
+  - {title: Mail, icon: envelope, url: "mailto:barkinsarikartal51@gmail.com"}
+  - {title: Github, icon: github, url: "https://bit.ly/3xSCZTN"}
+  - {title: Twitter, icon: twitter, url: "https://bit.ly/3yL9og3"}
+  - {title: Spotify, icon: spotify, url: "https://spoti.fi/3xJiVTN"}
+  - {title: Instagram, icon: instagram, url: "https://bit.ly/3g1KZvz"}
+  - {title: LinkedIn, icon: linkedin, url: "https://bit.ly/2Ujqnr2"}
+  - {title: YouTube, icon: youtube, url: "https://bit.ly/3fZWBPr"}
+  - {title: Twitch, icon: twitch, url: "https://bit.ly/38u1hcs"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:barkinsarikartal51@gmail.com"}
