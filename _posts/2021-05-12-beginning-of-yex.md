@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-
+---
 ### Hello World!
 This is the beginning of Project YEX (YellowEagle). Which is a cryptocurrency project I made just for fun and to understand cryptocurrency better.
 
