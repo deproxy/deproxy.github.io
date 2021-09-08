@@ -1,5 +1,5 @@
 ---
-title:  "My New Game"
+title:  "My New Game: Cute Fox"
 mathjax: true
 layout: post
 categories: media
