@@ -1,5 +1,5 @@
 ---
-title:  "A New Journey in My Life"
+title:  "My New Game"
 mathjax: true
 layout: post
 categories: media
@@ -8,6 +8,7 @@ categories: media
 ###My New Game "Cute Fox" is Downloadable Now!
 
 I've been working on a game project called "Cute Fox" for several days and I finally uploaded it on a platform called itch.io which game developers use to upload games they made.
+I made some more games too but I don't think they are good enough to upload to itch.io
 
 ###It's Free to Play!
 
