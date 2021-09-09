@@ -18,3 +18,7 @@ I don't know how to take screenshots with lower sizes :( You can download the ga
 ### Which Game Engine Did I Use?
 
 I used Unity Game Engine. It's free for personal projects and easy to use.
+
+### Where Did The Idea Come From?
+
+There is a game called "The First Tree". It's a game that you control a fox. I just tried to make a clone of it.
